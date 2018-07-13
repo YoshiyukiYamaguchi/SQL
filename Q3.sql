@@ -1,0 +1,1 @@
+CREATE TABLE item(item_id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,item_name VARCHAR(256)NOT NULL,item_price INT NOT NULL,category_id INT);
